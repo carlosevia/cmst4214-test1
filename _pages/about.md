@@ -3,6 +3,14 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi, my name is Hokie Lopez and I am a recent college graduate from the University of Virginia. I studied Computer Science and have a passion for creating software that makes people's lives better.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+In my free time, I enjoy playing guitar, running, and traveling. I have been to several countries in Europe and Asia and hope to visit many more in the future.
+
+I am currently looking for job opportunities as a software developer. I am a fast learner and am excited to continue learning and growing as a developer.
+
+Thank you for visiting my website. If you have any questions, please don't hesitate to contact me. I would love to hear from you.
+
+Best regards,
+
+Hokie Lopez
