@@ -116,4 +116,3 @@ analytics:
   provider: "google-gtag"
   google:
     tracking_id: "G-PRE3Y7FXE1"
-    anonymize_ip: false # default
